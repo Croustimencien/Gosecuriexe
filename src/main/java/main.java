@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.util.List;
 import java.util.Scanner;
 
-public class PageWeb {
+public class main {
 
     public static void main(String[] args) throws IOException {
         String[] liste ;
