@@ -11,10 +11,10 @@ public class main {
 
     public static void main(String[] args) throws IOException {
         String[] liste ;
-        String fileName = "D:\\MSPR_BDD_txt\\staff.txt";
-        String fileliste = "D:\\MSPR_BDD_txt\\liste.txt";
-        String htmlFileName = "D:\\MSPR_java\\index.html";
-        String Image = "D:\\MSPR_BDD_txt\\" + "flesaint" + ".jpg";
+        String fileName = "https://github.com/Croustimencien/Gosecuri/staff.txt";
+        String fileliste = "https://github.com/Croustimencien/Gosecuri/liste.txt";
+        String htmlFileName = "https://github.com/Croustimencien/Gosecuriexe";
+        String Image = "https://github.com/Croustimencien/Gosecuri/" + "flesaint" + ".jpg";
 
         File inputFile = new File(fileName);
         Scanner input = new Scanner(inputFile);
